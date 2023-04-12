@@ -191,7 +191,7 @@ function play(){
             aux = 0;
             GRAVITY = 2;
             elementSort();
-            alert("Hey, nesse game você deve selecionar o elemento que for apresentado pelo gato (à esqueda da tela). Você possui, inicialmente, três vidas e conforme você deixa passar um elemento apresentado, você perde uma vida. Para cada elemento acertado, um ponto!\n\n Divirta-se! :) \n\n\nEste jogo foi desenvolvido por Allex Lima, Daniel Bispo, Paulo Moraes e Renan Barroncas, alunos do 4º período (2015) do curso de Engenharia da Computação da UniNorte Laureate.\n\nOrientadora: Profª Drª Rebecca Freire\n")
+            alert("Hej, v tej igri morate izbrati element, ki si ga predstavlja mačka (na levi strani zaslona). Na začetku imate tri življenja in ko zgrešite predstavljeni element, izgubite eno življenje. Za vsak pravilen element je točka!")
             GameStatus = Status.playing;
         }
     }else if(GameStatus == Status.playing){

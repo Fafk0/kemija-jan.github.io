@@ -7,6 +7,3 @@ Game developed using Javascript and HTML5 with a proposal: **help children and t
 
 ---
 
-Developed by [Allex Lima](http://www.allexlima.com), [Daniel Bispo](https://github.com/danielbispov), [Paulo Moraes](http://pauloigormoraes.com/) and [Renan Barroncas](https://github.com/renanbarroncas) in 2015.
-
-Project supervised by [Prof. Rebecca Freire, Ph.D.](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4767082U3)
